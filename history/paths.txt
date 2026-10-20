@@ -1,0 +1,6 @@
+crates/dc/
+crates/dc-anim/
+crates/dc-skin/
+crates/voxel-anim/src/main.rs
+crates/voxel/src/bin/voxel-anim.rs
+crates/voxel/src/bin/voxel.rs

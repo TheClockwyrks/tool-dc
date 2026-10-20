@@ -8,7 +8,7 @@
 //! [`test_cabinet_model_skin::cli::run`]. There is **no `--part` flag**: a skinned
 //! character is one field with one log. The Marching Cubes / Surface Nets siblings are
 //! `mc-skin` / `sn-skin`. See
-//! `apps/docs/src/content/docs/testing/asset-generation/skinned-binaries.md`.
+//! <https://docs.testcabinet.ai/testing/asset-generation/skinned-binaries/>.
 
 use std::process::ExitCode;
 

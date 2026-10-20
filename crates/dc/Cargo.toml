@@ -1,8 +1,10 @@
 [package]
 name = "test-cabinet-dc"
+description = "The dual-contouring field domain and the dc binary a run image carries to mesh a static model."
 edition.workspace = true
 version.workspace = true
 license.workspace = true
+repository.workspace = true
 publish.workspace = true
 
 # The `dc` binary and its library: the **dual-contouring** meshing tool for static 3D
